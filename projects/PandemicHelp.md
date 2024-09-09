@@ -1,7 +1,7 @@
 ---
 layout: significant endeavor
 type: significant endeavor
-image: img/Screenshot 2024-09-08 205859.png
+image: img/IMG_7688-scaled.jpg
 title: "PandemicHelp"
 date: 2022
 published: true
