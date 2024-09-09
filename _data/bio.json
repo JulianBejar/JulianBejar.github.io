@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "JulianBejar", "url": "http://github.com/JulianBejar" },
-      { "network": "linkedin", "username": "Julian Bejar", "url": "https://www.linkedin.com/in/julian-bejar-a60216326/" },
+      { "network": "linkedin", "username": "Julian Bejar", "url": "https://www.linkedin.com/in/julian-bejar-a60216326/" }, 
     ]
   },
   "interests": [
