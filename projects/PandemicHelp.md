@@ -1,6 +1,6 @@
 ---
-layout: significant endeavor
-type: significant endeavor
+layout: project
+type: project
 image: img/IMG_7688-scaled.jpg
 title: "PandemicHelp"
 date: 2022
