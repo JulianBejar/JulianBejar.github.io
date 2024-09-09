@@ -8,7 +8,7 @@ labels:
   - Discord
   - Javascript
   - VSCode
-summary: "I developed a discord bot named "Julian Bot" that I used for a server with me an my friends. It was made to make jokes and provide information that only my friends and I would know about."
+summary: "I developed a discord bot named Julian Bot that I used for a server with me an my friends. It was made to make jokes and provide information that only my friends and I would know about."
 ---
 
 <div class="text-center p-4">
