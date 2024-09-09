@@ -4,6 +4,7 @@ type: project
 image: img/Screenshot 2024-09-08 205859.png
 title: "JulianBot"
 date: 2019
+published: true
 labels:
   - Discord
   - Javascript
