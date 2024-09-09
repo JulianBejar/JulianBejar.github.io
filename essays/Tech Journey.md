@@ -9,8 +9,6 @@ labels:
   - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 ## The First Code
 
 I had always been a sort of tech guy. I was always situated at my computer doing different things such as researching the hardware, playing games, browsing online. However, the topic of coding never really came across my head. This all changed when I got the funny idea to mess with my friends by making a Discord bot that would banter with them. As mentioned in my projects, I made a Discord bot using Javascript that would reply to people in my server with a snarky attitude and would occasionally send funny gifs or images. At the time of making the bot, I had almost zero prior coding experience with the exception being a comptetion I did involving a lego robot which I'll delve more into later. I pretty much just wanted to do it for fun. It was really difficult, I had no fundamentals and even though I followed a step by step tutorial, there were still a lot of errors some how. These errors were hard to identify because again I had no knowledge of coding or Javascript and no fundamentals down. After a ton of researching I was able to get it to work and that felt incredibly satisfying to do. This acutally was the basis of why I became sort of interested in coding for the future.
