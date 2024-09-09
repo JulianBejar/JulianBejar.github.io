@@ -4,7 +4,7 @@ type: significant endeavor
 image: img/s214622393936640635_p124_i3_w600.png
 title: "Robotics"
 date: 2015
-published: true
+published: false
 labels:
   - Robotics
   - Lego
