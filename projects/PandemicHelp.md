@@ -4,7 +4,7 @@ type: project
 image: img/IMG_7688-scaled.jpg
 title: "PandemicHelp"
 date: 2022
-published: false
+published: true
 labels:
   - Community
   - Covid
