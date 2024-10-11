@@ -8,6 +8,7 @@ labels:
   - Computer science
   - HTML
   - CSS
+  - Bootstrap
 ---
 
   When I first started my coding journey back during ICS 111 (not including previous coding projects that I had done before), I knew sometime down the line I would need to learn HTML and CSS as I heard those were too pretty prevalent languages to know in the coding scene. Now at the time I had no idea what either was and assumed that all code had a sort of design feature to it that can be put on websites easily with something like a click of a button. Come to find out that HTML and CSS are both neccessary components for design and engineering.
