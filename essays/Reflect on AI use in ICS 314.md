@@ -12,21 +12,21 @@ labels:
   - ESLint
 ---
 
-Questions answered: 
-1) Experience WODs e.g. E18
-2) In-class Practice WODs
-3) In-class WODs
-4) Essays
-5) Final project
-6) Learning a concept / tutorial
-7) Answering a question in class or in Discord
-8) Asking or answering a smart-question
-9) Coding example e.g. “give an example of using Underscore .pluck”
-10) Explaining code
-11) Writing code
-12) Documenting code
-13) Quality assurance e.g. “What’s wrong with this code <code>” or “Fix the ESLint errors in <code>”
-14) Other uses in ICS 314 not listed
+* Questions answered: 
+* Experience WODs e.g. E18
+* In-class Practice WODs
+* In-class WODs
+* Essays
+* Final project
+* Learning a concept / tutorial
+* Answering a question in class or in Discord
+* Asking or answering a smart-question
+* Coding example e.g. “give an example of using Underscore .pluck”
+* Explaining code
+* Writing code
+* Documenting code
+* Quality assurance e.g. “What’s wrong with this code <code>” or “Fix the ESLint errors in <code>”
+* Other uses in ICS 314 not listed
 
   AI is pretty much the new booming market. Its prevalence in the real world and Software engineering in particular has shown itself througout the years. Just a few years ag, I had very little knowledge on AI and now it has become so mainstream that almost everyone I know uses it or at the very least knows about it. In my software engineering class (ICS 314), I pretty much only used one AI which is ChatGPT. I don't know much about any other AI though I have heard about them. They are very good at accomplishing various tasks and that includes tasks related to software engineering.
 
