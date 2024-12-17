@@ -25,7 +25,7 @@ Coding example e.g. “give an example of using Underscore .pluck”
 Explaining code
 Writing code
 Documenting code
-Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+Quality assurance e.g. “What’s wrong with this code <code>” or “Fix the ESLint errors in <code>”
 Other uses in ICS 314 not listed
 
   AI is pretty much the new booming market. Its prevalence in the real world and Software engineering in particular has shown itself througout the years. Just a few years ag, I had very little knowledge on AI and now it has become so mainstream that almost everyone I know uses it or at the very least knows about it. In my software engineering class (ICS 314), I pretty much only used one AI which is ChatGPT. I don't know much about any other AI though I have heard about them. They are very good at accomplishing various tasks and that includes tasks related to software engineering.
