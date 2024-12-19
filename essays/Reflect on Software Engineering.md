@@ -11,8 +11,8 @@ labels:
   - Management
 ---
 
-## Importance for Future Software Developers
+## Configuration Management
 
-## The Reason for its Importance
+## Development Environments
 
-## Insights
+## Coding Standards
