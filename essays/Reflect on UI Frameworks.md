@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Julian Bejar - Reflect on UI Frameworks"
-date: 2024-010-10
+date: 2024-10-10
 published: true
 labels:
   - Computer science
