@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Screenshot 2024-09-08 205859.png
+image: img/Screenshot 2024-12-21 at 9.22.49 PM.png
 title: "iCompanion"
 date: 2024
 published: true
