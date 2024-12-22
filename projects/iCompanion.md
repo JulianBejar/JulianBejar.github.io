@@ -27,3 +27,5 @@ Using the templates and practices we learned in ICS 314, we got to work. We deci
 ## The Result
 
 Unfortunately, we encountered several challenges that limited the app's full functionality. While we successfully developed an appealing frontend user experience and implemented a method for storing users' game preferences and matches, we couldn’t fully realize an interactive user experience. Key features were missing, such as a proper way to check if a paired companion was available, a real-time event updater, and a proper popular games page. Despite these shortcomings, I’m proud of what we accomplished given the tight time constraints. The experience provided valuable insight into the pressures of completing a project under a deadline, much like in the real world. It was also my first major team coding project, which made it an incredibly rewarding learning experience overall.
+
+Link to project organization page: [here](https://github.com/orgs/i-companion/projects)
